@@ -467,7 +467,7 @@ border: 1px solid var(--border-color);
 }
 
 .projects-title {
-font-family: var(--main-font);
+
 font-weight: 700;
 font-size: 18px;
 line-height: 2;
@@ -475,6 +475,8 @@ letter-spacing: 0.06em;
 background-color: var(--primary-color);
 color: var(--primary-text-color);
 margin-bottom: 4px;
+/* */
+font-family: var(--main-font);
 }
 
 .projects-description {
